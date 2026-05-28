@@ -21,3 +21,8 @@ Criado com
 
 🔧 IDE
  * Vs code
+
+### 🛠️ Pipeline automizada CI-CD:
+
+Criando minha primeira pipeline automatizada como github actions
+- fluxos de trabalho
